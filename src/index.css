@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  /* display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; */
+  /* height: 80vh; */
+  background: linear-gradient(#2a00b7, #42006c);
+  font-family: "Times New Roman", Times, serif;
+}
